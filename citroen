@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>used car</title>
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+		       <table class="table1">
+                              <tr>
+                                   <td>HOME</td>
+			                       <td>SERVICE</td>
+			                       <td>USED CARS</td>
+			                       <td>ABOUT US</td>
+				               <td>CONTACT US</td>
+
+		                     </tr>
+		      </table>
+
+
+  <div class="road"><img src="road.gif" width="100%" height="300"></div>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=1812d5c2-d7f9-475a-816c-2cd8cbf45eec&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" alt="Citroen C4 (2013)" title="Citroen C4 (2013)" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Citroen</li>
+<li> Model:C4</li>
+<li> Engine:1.5 Diesel</li>
+<li> Body type:MPV</li>
+<li> Transmision:Manual</li>
+<li> Year:2013</li>
+<li> Colour:Gold</li>
+<li> Mileage:9,134M/14,700KM</li>
+<li> Owners:1</li>
+<li> Doors:4</li>
+<li> NCT Expiry:April,2017</li>
+<li> Price:€ 24,950</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=9a33d770-c6a4-4932-848e-9c6ebc27151d&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" alt="Citroen Berlingo (2014)" title="Citroen Berlingo (2014)" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Citroen</li>
+<li> Model:Berlingo</li>
+<li> Engine:1.5 Diesel</li>
+<li> Body type:Commercial</li>
+<li> Transmision:Manual</li>
+<li> Year:2014</li>
+<li> Colour:Red</li>
+<li> Mileage:14M/24KM</li>
+<li> Owners:0</li>
+<li> Doors:4</li>
+<li> NCT Expiry:-</li>
+<li> Price:€ 13,459</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://m1.dmlimg.com/YWI0YTk1OGNlZjNlMTlmYTZiOGM4ODFjZGZlMTRlM2LO-Fj07e3ZgNBWmFKIR_QZaHR0cDovL21lZGlhLmFkc2ltZy5jb20vNWNjNGY4NzgyNGVlYWU0Y2YyNGIyZDI1ODg4OTdhYjc0ZWQ4MWQzNzJiMTczNzVmMGI0NjQ2NDgyNGYwYTFhOC5qcGd8MzkzfHx8fHx8aHR0cDovL3d3dy5hZHZlcnRzLmllL3N0YXRpYy9pL3dhdGVybWFyay5wbmd8fGh0dHA6Ly93d3cuYWR2ZXJ0cy5pZS9zdGF0aWMvaS9ub25lLWltYWdlLmpwZ3w=.jpg"  width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Citroen</li>
+<li> Model:C25</li>
+<li> Engine:-</li>
+<li> Body type:Comercial</li>
+<li> Transmision:Manual</li>
+<li> Year:-</li>
+<li> Colour:Red</li>
+<li> Mileage:-</li>
+<li> Owners:1</li>
+<li> Doors:-</li>
+<li> NCT Expiry:-</li>
+<li> Price:€ 3900</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=97078e8d-5f0e-4899-90b9-87b80881fa91&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" nosudispl="1" width="400" height="300" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Citroen</li>
+<li> Model:Saxo</li>
+<li> Engine:1.1 Petrol</li>
+<li> Body type:Hatchback</li>
+<li> Transmision:Manual</li>
+<li> Year:2001</li>
+<li> Colour:Black</li>
+<li> Mileage:115,000M/185,075KM</li>
+<li> Owners:4</li>
+<li> Doors:5</li>
+<li> NCT Expiry:December,2013</li>
+<li> Price:€ 1,250</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=644e967c-5f44-4456-9182-fe9a2097d023&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" align="left" width="400" height="300" nosudispl="1">
+<div class="fiat">
+<ul>
+<li> Make:Citroen</li>
+<li> Model:C3</li>
+<li> Engine:1.4 Diesel</li>
+<li> Body type:MPV</li>
+<li> Transmision:Manual</li>
+<li> Year:2014</li>
+<li> Colour:Mettalic red</li>
+<li> Mileage:0M/0KM</li>
+<li> Owners:0</li>
+<li> Doors:5</li>
+<li> NCT Expiry:-</li>
+<li> Price:€ 22,295</li>
+</ul>
+</div>
+<a href="caprani.html">Back</a>
+
+</body>
+<html>
+
