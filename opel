@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>used car</title>
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+		       <table class="table1">
+                              <tr>
+                                   <td>HOME</td>
+			                       <td>SERVICE</td>
+			                       <td>USED CARS</td>
+			                       <td>ABOUT US</td>
+				                   <td>CONTACT US</td>
+
+		                     </tr>
+		      </table>
+
+
+  <div class="road"><img src="road.gif" width="100%" height="300"></div>
+
+<img src="http://images.carzone.ie/Photolib/irl/OPEL/ASTRA/2013/4SA.JPG" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Opel</li>
+<li> Model:Astra</li>
+<li> Engine:2.0 Diesel</li>
+<li> Body type:Saloon</li>
+<li> Transmision:Manual</li>
+<li> Year:2013</li>
+<li> Colour:Black</li>
+<li> Mileage:-</li>
+<li> Owners:0</li>
+<li> Doors:4</li>
+<li> NCT Expiry:</li>
+<li> Price:€ 20,995</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=b032fe41-00e8-4a23-8a8b-5b7a4bb2f1ed&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Opel</li>
+<li>Model:Vectra</li>
+<li>Engine:1.6 Petrol</li>
+<li>Body type:Saloon</li>
+<li>Transmision:Manual</li>
+<li>Year:2005</li>
+<li>Colour:Blue</li>
+<li>Mileage:75,840M/122,053KM</li>
+<li>Owners:2</li>
+<li>Doors:4</li>
+<li>NCT Expiry:September, 2015</li>
+<li> Price:€ 4,450</li>
+</ul>
+</div>
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=9884f2e4-a676-474c-87c5-b43f30b20c65&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Opel</li>
+<li>Model:Corsa</li>
+<li>Engine:1,2 Petrol</li>
+<li>Year: 2009</li>
+<li>Colour: Metallic White</li>
+<li>Body type: Hatchback</li>
+<li>Transmision: Manual</li>
+<li>Mileage:80,778M/130,000KM</li>
+<li>Owners:1</li>
+<li>Doors:3</li>
+<li>Price: € 8,995</li>
+</ul>
+</div>
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=a05d9004-2521-4044-b535-0aefa596abc5&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Opel</li>
+<li>Model:Zafira</li>
+<li>Price:€6,950</li>
+<li>Engine: 1,7 Petrol</li>
+<li>Body type: MPV</li>
+<li>Year:2006</li>
+<li>Colour:Black</li>
+<li>Mileage:44,608M/71,789Km</li>
+<li>Owners:2</li>
+<li>Doors:5</li>
+<li>NCT Expiry: July,2014</li>
+</ul>
+
+</div>
+
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=32b1c2a9-896b-43cf-a4ed-6678446c7268&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Opel</li>
+<li>Model:Vivaro Bus</li>
+<li>Engine:1.9 Diesel</li>
+<li>Transmission: Manual</li>
+<li>Year: 2008</li>
+<li>Colour:Silver</li>
+<li>Mileage:116,171/186,959KM</li>
+<li>Owners:3</li>
+<li>Doors:4</li>
+<li>Price: €6,950</li>
+</ul>
+</div>
+<a href="caprani.html">Back</a>
+
+</body>
+</html>
+
+
+
