@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>used car</title>
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+		       <table class="table1">
+                              <tr>
+                                               <td>HOME</td>
+			                       <td>SERVICE</td>
+			                       <td>USED CARS</td>
+			                       <td>ABOUT US</td>
+				               <td>CONTACT US</td>
+
+		                     </tr>
+		      </table>
+
+
+  <div class="road"><img src="road.gif" width="100%" height="300"></div>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14294116&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Peugeot</li>
+<li>Model:407</li>
+<li>Engine:1,6Diesel</li>
+<li>Transmission: Manual</li>
+<li>Year: 2008</li>
+<li>Colour:Red</li>
+<li>Mileage:41,00/67,624KM</li>
+<li>Owners:1</li>
+<li>Doors:5</li>
+<li>Price: €14,785</li>
+</ul>
+</div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14733685&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Peugeot</li>
+<li> Model:307</li>
+<li> Engine:1,5 Petrol</li
+<li> Body type:Cabriolet</li>
+<li> Transmision:Manual</li>
+<li> Year:2006</li>
+<li> Colour:Black</li>
+<li> Mileage:47,000M/75,561KM</li>
+<li> Owners:1</li>
+<li> Doors:2</li>
+<li> NCT Expiry:February,2014</li>
+<li> Price:€ 6,900</li>
+</ul>
+</div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=e1ab20a1-bc1a-4c6f-993a-69b6c8acf3f0&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif"width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Peugeot</li>
+<li>Model:206</li>
+<li>Engine:1,3 Petrol</li>
+<li>Body type:Hatchback</li>
+<li>Transmision:Manual</li>
+<li>Year:2007</li>
+<li>Colour: Silver</li>
+<li>Mileage:80,594M/130,000KM</li>
+<li>Owners:1</li>
+<li>Doors:5</li>
+<li>NCT Expiry:February,2015</li>
+<li> Price:€ 5,750</li>
+</ul>
+</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=b2642a86-283e-412c-9bf2-9c84fefceb0e&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Peugeot</li>
+<li>Model:406</li>
+<li>Engine:1,9 Diesel</li>
+<li>Year: 2003</li>
+<li>Colour: Blue</li>
+<li>Body type: Saloon</li>
+<li>Transmision: Manual</li>
+<li>Mileage:153,152/246,898KM</li>
+<li>Owners:2</li>
+<li>Doors:4</li>
+<li>NCT Expiry: January,2014</li>
+<li>Price: POA</li>
+</ul>
+</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=313977c3-9a5f-4b65-854e-a95d5b33c3cc&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Peugeot</li>
+<li>Model:Bipper</li>
+<li>Price:€8,450</li>
+<li>Engine: 1,9 Diesel</li>
+<li>Body type: Saloon</li>
+<li>Year:2010</li>
+<li>Colour: Park Metallic Blue</li>
+<li>Mileage:29,108M/46,000Km</li>
+<li>Owners:2</li>
+<li>Doors:4</li>
+<li>NCT Expiry: March,2014</li>
+</ul>
+</div>
+<a href="caprani.html">Back</a>
+
+</body>
+</html>
