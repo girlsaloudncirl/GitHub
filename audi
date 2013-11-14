@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>used car</title>
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+		       <table class="table1">
+                              <tr>
+                                               <td>HOME</td>
+			                       <td>SERVICE</td>
+			                       <td>USED CARS</td>
+			                       <td>ABOUT US</td>
+				               <td>CONTACT US</td>
+
+		                     </tr>
+		      </table>
+
+
+  <div class="road"><img src="road.gif" width="100%" height="300"></div>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=1cde0429-d318-4e8c-91bf-ecc484f9534d&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif&amp;width=400&amp;height=300" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat">
+<ul>
+<li> Make:Audi</li>
+<li> Model:A4</li>
+<li> Engine:2.0 Diesel</li>
+<li> Body type:Saloon</li>
+<li> Transmision:Manual</li>
+<li> Year:2013</li>
+<li> Colour:Daytona Grey Pearl Effect</li>
+<li> Mileage:-</li>
+<li> Owners:1</li>
+<li> Doors:4</li>
+<li> NCT Expiry:</li>
+<li> Price:€ 47,995</li>
+</ul>
+</div>
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=9d80c9b0-bc13-4bd0-9de1-8bd5930178bb&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif"width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Audi</li>
+<li>Model:A6</li>
+<li>Engine:2.0 Diesel</li>
+<li>Body type:Saloon</li>
+<li>Transmision:Automatic</li>
+<li>Year:2008</li>
+<li>Colour:Ice Silver</li>
+<li>Mileage:67,185M/108,124KM</li>
+<li>Owners:2</li>
+<li>Doors:4</li>
+<li>NCT Expiry:-</li>
+<li> Price:€ 18,950</li>
+</ul>
+</div>
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14729448&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Audi</li>
+<li>Model:A3</li>
+<li>Engine:1,4 Petrol</li>
+<li>Year: 2008</li>
+<li>Colour: Red</li>
+<li>Body type: Hatchback</li>
+<li>Transmision: Manual</li>
+<li>Mileage:54,000M/87,00KM</li>
+<li>Owners:1</li>
+<li>Doors:3</li>
+<li>Price: € 13,950</li>
+</ul>
+</div>
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="http://pictures.autotrader.ie/imgser-ie/servlet/media?id=14649998&amp;width=400&amp;height=300&amp;defaultImageUrl=http://www.carzone.ie/es-ie/images/no-image-large.gif" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Audi</li>
+<li>Model:RS6</li>
+<li>Price:€19,950</li>
+<li>Engine: 4,2Petrol</li>
+<li>Body type: Saloon</li>
+<li>Year:2003</li>
+<li>Colour:Misano Red</li>
+<li>Mileage:65,600M/105,573Km</li>
+<li>Owners:3</li>
+<li>Doors:4</li>
+<li>NCT Expiry: March,2014</li>
+</ul>
+
+</div>
+
+
+</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="photos/audi.jpg" width="400" height="250" nosudispl="1" align="left">
+<div class="fiat2">
+<ul>
+<li>Make:Audi</li>
+<li>Model:TT</li>
+<li>Engine:2.0 Diesel</li>
+<li>Transmission: Manual</li>
+<li>Year: 2009</li>
+<li>Colour:White</li>
+<li>Mileage:64,663M/104,065KM</li>
+<li>Owners:1</li>
+<li>Doors:2</li>
+<li>Price: €21,500</li>
+</ul>
+</div>
+<a href="caprani.html">Back</a>
+</div>
+<div class="cube">
+        <div class="topFace">
+                <div>
+                    <img src = "photos/toyota.jpg" width="170px" height="170px">
+                </div>
+        </div>
+        <div class="leftFace">
+                <img src ="photos/caprani.jpg" width="170px" height="170px">
+        </div>
+        <div class="rightFace">
+               <h2>WELCOME TO CAPRANI-AUDI'S CARS</h2>
+
+        </div>
+
+
+</div>
+
+
+
+
+</body>
+</html>
+
+
+
