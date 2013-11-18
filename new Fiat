@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+
+     <title>used car</title>
+
+   <head>
+
+	<link  rel="stylesheet" type="text/css" href="stylesheet.css" />
+   </head>
+		  <body>
+
+		       <table class="table1">
+                              <tr>
+                                   <td>HOME</td>
+			                       <td>SERVICE</td>
+			                       <td>USED CARS</td>
+			                       <td>ABOUT US</td>
+				                   <td>CONTACT US</td>
+
+		                     </tr>
+		      </table>
+
+
+<img src="road.gif" class="one"></div>
+
+<img src="photos/ford1.jpg" class="img">
+<div class="fiat">
+<ul>
+		<li>Make:Ford</li>
+		<li>Model:Focus</li>
+		<li>Engine:1,7 Diesel</li>
+		<li>Transmission: Manual</li>
+		<li>Year: 2009</li>
+		<li>Colour:Blue</li>
+		<li>Mileage:22,00/36,624KM</li>
+		<li>Owners:1</li>
+		<li>Doors:5</li>
+		<li>Price: €13,785</li>
+		</ul>
+</div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="photos/ford2.jpg" class="img2">
+<div class="fiat">
+<ul>
+		<li> Make:Ford</li>
+		<li> Model:Fiests</li>
+		<li> Engine:1.4 Diesel</li>
+		<li> Body type:Hatchback</li>
+		<li> Transmision:Manual</li>
+		<li> Year:2008</li>
+		<li> Colour:Blue Metallic</li>
+		<li> Mileage:71,000M/115,561KM</li>
+		<li> Owners:1</li>
+		<li> Doors:5</li>
+		<li> NCT Expiry:August, 2015</li>
+		<li> Price:€ 7,500</li>
+</ul>
+</div>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="photos/ford3.jpg" class="img">
+<div class="fiat">
+<ul>
+		<li>Make:Ford</li>
+		<li>Model:Transit Torneo</li>
+		<li>Engine:2.4 Diesel</li>
+		<li>Body type:Hatchback</li>
+		<li>Transmision:Manual</li>
+		<li>Year:2010</li>
+		<li>Colour:White</li>
+		<li>Mileage:69,594M/112,000KM</li>
+		<li>Owners:1</li>
+		<li>Doors:5</li>
+		<li>NCT Expiry:September,2014</li>
+		<li> Price:€ 11,250</li>
+</ul>
+</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="photos/ford4.jpg" class="img2">
+<div class="fiat">
+<ul>
+		<li>Make:Ford</li>
+		<li>Model:C-MAX</li>
+		<li>Engine:1,6 Petrol</li>
+		<li>Year: 2008</li>
+		<li>Colour: Hatchback</li>
+		<li>Body type: SUV</li>
+		<li>Transmision: Manual</li>
+		<li>Mileage:60,152/97,898KM</li>
+		<li>Owners:1</li>
+		<li>Doors:5</li>
+		<li>NCT Expiry: January,2014</li>
+		<li>Price: € 5,750</li>
+</ul>
+</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+<img src="photos/ford5.jpg" class="img">
+<div class="fiat">
+<ul>
+		<li>Make:Ford</li>
+		<li>Model:Galaxy</li>
+		<li>Price:€18,950</li>
+		<li>Engine: 2,0 Diesel</li>
+		<li>Body type: MPV</li>
+		<li>Year:2008</li>
+		<li>Colour:Metallic Panther Black</li>
+		<li>Mileage:103,108M/165,000Km</li>
+		<li>Owners:2</li>
+		<li>Doors:5</li>
+		<li>NCT Expiry: February,2015</li>
+</ul>
+</div>
+<a href="Pre-usedPage.html">Back</a>
+
+
+</body>
+</html>
